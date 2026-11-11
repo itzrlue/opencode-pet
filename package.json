@@ -1,0 +1,17 @@
+{
+  "name": "opencode-codex-pet",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    "./tui": "./src/tui.tsx"
+  },
+  "scripts": {
+    "build:frames": "python scripts/build_frames.py"
+  },
+  "peerDependencies": {
+    "@opencode-ai/plugin": "^1.18.30",
+    "@opentui/core": "^0.4.5",
+    "@opentui/solid": "^0.4.5",
+    "solid-js": "^1.9.12"
+  }
+}

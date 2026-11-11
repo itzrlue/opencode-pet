@@ -1,0 +1,10 @@
+assets/codex-spritesheet-v4.webp
+src/frames.js
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+desktop.ini

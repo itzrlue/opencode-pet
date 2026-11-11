@@ -1,0 +1,1 @@
+Put a sprite sheet you are authorized to use here as `codex-spritesheet-v4.webp`. This file is ignored by Git. The README preview links to OpenAI's public CDN; the artwork is not bundled in this repository.
