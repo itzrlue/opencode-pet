@@ -4,7 +4,7 @@ An unofficial OpenCode TUI plugin that brings a small animated companion into th
 
 ![Codex pet sprite atlas preview, linked from the OpenAI CDN](https://cdn.openai.com/c6d7b0d0-3abf-40b5-9d0c-ecd2b9364692/codex-spritesheet-v4.webp)
 
-The preview is linked from OpenAI's CDN. The original artwork and the generated frame data are excluded from Git. To build a local copy, supply a sprite sheet you are authorized to use. See <code>NOTICE.md</code>.
+
 
 ## What it does
 
@@ -18,7 +18,6 @@ The preview is linked from OpenAI's CDN. The original artwork and the generated 
 - OpenCode CLI 1.19.x using the V1 TUI plugin API.
 - Node.js/npm for the plugin runtime dependencies.
 - Python 3.10+ and Pillow to build the local terminal frames.
-- A compatible 1536x1872 sprite sheet that you are authorized to use.
 
 OpenCode V2 uses a different plugin API and needs a port of <code>src/tui.tsx</code>.
 
@@ -73,4 +72,3 @@ py scripts/build_frames.py
 - <code>assets/</code> — local sprite input; ignored by Git.
 - <code>src/frames.js</code> — generated local animation data; ignored by Git.
 
-See <code>NOTICE.md</code> for the artwork and branding note. This repository does not include a license for reuse; add one if you want to grant permission for others to reuse the plugin code.
