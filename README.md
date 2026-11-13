@@ -2,7 +2,8 @@
 
 An unofficial OpenCode TUI plugin that brings a small animated companion into the terminal. The home screen uses the running animation; the conversation sidebar uses the laptop-holding work animation.
 
-![Codex pet sprite atlas preview, linked from the OpenAI CDN](https://cdn.openai.com/c6d7b0d0-3abf-40b5-9d0c-ecd2b9364692/codex-spritesheet-v4.webp)
+<img width="914" height="481" alt="Screenshot 2026-11-11 153114" src="https://github.com/user-attachments/assets/5b1978d9-c319-481f-bd46-5923ed0920bf" /> - it moves and it's so cool!
+
 
 
 
