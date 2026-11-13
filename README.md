@@ -3,7 +3,6 @@
 An unofficial OpenCode TUI plugin that brings a small animated companion into the terminal. The home screen uses the running animation; the conversation sidebar uses the laptop-holding work animation.
 
 <img width="914" height="481" alt="Screenshot 2026-11-11 153114" src="https://github.com/user-attachments/assets/5b1978d9-c319-481f-bd46-5923ed0920bf" /> 
-- It Moves and it's so cool !
 
 
 
